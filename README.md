@@ -218,7 +218,7 @@ The Morse code uses “.” And “-“ for which the dot button and the dash bu
 
 To reset the password, the reset button needs to pressed when the locker is opened, the led will glow up and indicate that reset mode is activated. Then using the dot, dash and letter button enter the new password and again press the reset button to save the password, the led will turn low when this happens. The password is saved in the EEPROM so it will remain same even after the system is shut down. 
 
-Please Check the video for further reference!
+Please Check the video for further reference!: https://drive.google.com/file/d/1vZGJFQo2bODlWR9IkW8iSiWow7fdOJ29/view?usp=sharing
 
 <p style="text-align: right">
 By Indranil Sen</p>
